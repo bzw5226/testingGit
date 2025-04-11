@@ -1,2 +1,0 @@
-# testingGit
-for dev purposes
